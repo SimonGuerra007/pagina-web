@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+}
+
+body {
+    background: rgb(39, 51, 51);
+}
+
+.foto-memo {
+    background-image: url(file:///C:/Users/Tomas/Downloads/foto%20memo.jfif);
+    height: 100vh;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.p-absolute {
+    position: absolute;
+}
+
+.p-absolute2 {
+    position: absolute;
+    width: 100%;
+}
+
+.bg-transparent {
+    background-color: rgb(0, 0, 0, 50%);
+    width: 100%;
+    height: 100%;
+}
+
+.bg-orange {
+    background: rgb(160, 91, 0);
+
+}
+
+.p-relative {
+    position: relative;
+}
+
+.p-fixed {
+    position: fixed;
+    padding: 1rem;
+    width: 100%;
+    top: 0px;
+    height: 40px;
+}
+
+.text-white {
+    color: rgb(255, 255, 255);
+}
+
+.altura {
+    height: 100%;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.row-2 {
+    display: flex;
+    flex-direction: row; 
+    margin-left: 20%;
+}
+
+
+.font-size {
+    font-size: 4rem;
+}
+
+.tittle-h1 {
+    color: white;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    background:rgb(255, 145, 0);
+    padding: 10px;
+    border-radius: 10px;
+    border: solid 4px rgb(131, 59, 0);
+    transition: 0.3s;
+}
+
+a:hover {
+    background: rgb(189, 62, 45);
+    transition: 0.3s;
+}
+
+.border-bottom {
+    border-bottom: solid 5px rgb(66, 43, 0);
+}
