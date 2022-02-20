@@ -7,7 +7,8 @@ body {
 }
 
 .foto-memo {
-    background-image: url(file:///C:/Users/Tomas/Downloads/foto%20memo.jfif);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxMx5zN5S2wuTwI-381txevWoPhD6oPXUNw&usqp=CAU);
+    width: 100vh;
     height: 100vh;
     margin-left: 25%;
     margin-right: 25%;
